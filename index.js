@@ -1,3 +1,3 @@
-import { minafbo }  from "minafbo";
+import { aterbot }  from "aterbot";
 
-minafbo()
+aterbot()
